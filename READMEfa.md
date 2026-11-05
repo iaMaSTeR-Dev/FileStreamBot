@@ -115,9 +115,10 @@
 
 اگر این پروژه برای شما مفید بوده و تمایل به حمایت از توسعه آن دارید، می‌توانید از طریق آدرس‌های زیر کمک‌های مالی خود را ارسال کنید:
 
--   **USDT (TRC20):** `TXH1JjrEQZrmQ58FRLkDBHLKZTCZryANrx`
--   **USDT (BEP20):** `0x8aea034cc9ec1e72b79e429716e76aaaef8100b1`
--   **LTC:** `LS1ZiaZEmj3fUxHM99z4mR3qVw4tpzFG3Q`
+-   **USDT (TRC20):** `TWKQ8QSinouRAMZ4cSorMNfWb2XBHFSRL1`
+-   **USDT (BEP20):** `0x10E8170eb6251801093e9388e2Ff09419E4cf365`
+-   **LTC:** `ltc1qnhcus0jmvxhhc3mdshf3hg832nwglukk6a2kxs`
+-   **GRAM:** `UQAgMDdXQEkJwdAAY7AxWB8ULXU7J1Up74pyG-_DJPSQbEJh`
 
 از حمایت شما بسیار سپاسگزاریم!
 
