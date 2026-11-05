@@ -121,9 +121,11 @@ Your bot is now live and ready to serve!
 
 If you find this project helpful and would like to support its development, you can make a donation to the following addresses:
 
--   **USDT (TRC20):** `TXH1JjrEQZrmQ58FRLkDBHLKZTCZryANrx`
--   **USDT (BEP20):** `0x8aea034cc9ec1e72b79e429716e76aaaef8100b1`
--   **LTC:** `LS1ZiaZEmj3fUxHM99z4mR3qVw4tpzFG3Q`
+-   **USDT (TRC20):** `TWKQ8QSinouRAMZ4cSorMNfWb2XBHFSRL1`
+-   **USDT (BEP20):** `0x10E8170eb6251801093e9388e2Ff09419E4cf365`
+-   **LTC:** `ltc1qnhcus0jmvxhhc3mdshf3hg832nwglukk6a2kxs`
+-   **GRAM:** `UQAgMDdXQEkJwdAAY7AxWB8ULXU7J1Up74pyG-_DJPSQbEJh`
+
 
 Your support is greatly appreciated!
 
